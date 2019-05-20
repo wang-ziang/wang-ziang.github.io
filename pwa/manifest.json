@@ -1,7 +1,7 @@
 {
-  "name": "BY Blog",
-  "short_name": "BY Blog",
-  "description": "A personal blog by engineer",
+  "name": "ZW Blog",
+  "short_name": "ZW Blog",
+  "description": "终身学习者",
   "icons": [{
     "src": "icons/pwa_icon_128.png",
     "sizes": "128x128",
