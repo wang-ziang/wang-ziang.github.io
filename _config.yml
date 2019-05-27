@@ -57,17 +57,17 @@ kramdown:
 
 # 评论系统
 # Disqus（https://disqus.com/）
-disqus_username: ziang_wang
+# disqus_username: ziang_wang
 
 # Gitalk
-# gitalk:
-  #enable: true    #是否开启Gitalk评论
-  #clientID: 62e417325771c9ebd3f9                            #生成的clientID
-  #clientSecret: 93063778c7c39c41b70bc6dc6cf48f29850e48b0    #生成的clientSecret
-  #repo: wang-ziang.github.io    #仓库名称
-  #owner: wang-ziang    #github用户名
-  #admin: wang-ziang
-  #distractionFreeMode: true #是否启用类似FB的阴影遮罩
+gitalk:
+  enable: true    #是否开启Gitalk评论
+  clientID: 62e417325771c9ebd3f9                            #生成的clientID
+  clientSecret: 93063778c7c39c41b70bc6dc6cf48f29850e48b0    #生成的clientSecret
+  repo: wang-ziang.github.io    #仓库名称
+  owner: wang-ziang    #github用户名
+  admin: wang-ziang
+  distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
 # 统计
